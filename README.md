@@ -8,15 +8,18 @@ The purpose of the project is to determine the number of retiring employees per 
 
 ## Results
 Four major points from the two analysis deliverables:
-1. Majority roles that will be in demand as many current employees reach retirement age are senior positions.
-2. The number of employees in the mentorship program is not sufficient enough to fill the positions available after the retiring employees leave.
-3. Current staff looking to be promoted in a position such as a 'manager' will need to wait as availability is limited. 
+1. Majority roles that will be in demand as many current employees reach retirement age are senior positions. About 63% of the retiring employees currently hold a senior role.
+    -![]()
+2. The number of employees in the mentorship program is not sufficient enough to fill the positions available after the retiring employees leave. There are 90,398 staff members retiring from the company and 1549 in the mentorship program.
+    -[]()
+3. The mentorship program should have a larger range and select from a greater pool of employees. Selecting current employees who were born between January 1, 1965 and December 31, 1965 is a small selection to choose from considering there are plenty of retiring employees that can train the next generation of workers.
 4. The company will need to do some external hiring. The number of employees that are not retiring cannot withstand the departure of retiring employees. The company might have to consider an internship program to draw in young aspiring professionals to compensate for the loss of employees.
 
 ## Summary
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
     - 90,398
+    - ![]()
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-    - Yes, there is enough qualified, retirement ready employees to mentor the next generation. Based on the findings below, there is a sufficient amount of retiring employees to teach. However, it is important to factor in that allow employees are qualified for the mentorship program, the employee may still not be best suited for the job.
+    - Yes, there is enough qualified, retirement ready employees to mentor the next generation. Based on the findings, there is a sufficient amount of retiring employees to teach. It is recommended that the manager extends the range between January 1, 1965 and December 31, 1965 to January 1, 1965 and December 31, 1970 to allow for more employees to participate in the mentorship program. There are way more retiring employees than eligible mentees. 
 
 

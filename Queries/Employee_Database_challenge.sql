@@ -32,6 +32,8 @@ FROM employees as em
 		ON (em.emp_no = ti.emp_no)
 WHERE (de.to_date = '9999-01-01')
 AND (em.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
-ORDER By em.emp_no;
-
+ORDER By 
+	em.emp_no ASC,
+ 	ti.to_date DESC
+	 
 SELECT * FROM mentorship_eligibilty
