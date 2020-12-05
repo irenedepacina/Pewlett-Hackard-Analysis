@@ -9,9 +9,9 @@ The purpose of the project is to determine the number of retiring employees per 
 ## Results
 Four major points from the two analysis deliverables:
 1. Majority roles that will be in demand as many current employees reach retirement age are senior positions. About 63% of the retiring employees currently hold a senior role.
-    - ![](https://github.com/irenedepacina/Pewlett-Hackard-Analysis/blob/main/Data/retiring_count.png)
     - ![](https://github.com/irenedepacina/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.png)
 2. The number of employees in the mentorship program is not sufficient enough to fill the positions available after the retiring employees leave. There are 90,398 staff members retiring from the company and 1549 in the mentorship program.
+    - ![](https://github.com/irenedepacina/Pewlett-Hackard-Analysis/blob/main/Data/retiring_count.png)
     - ![](https://github.com/irenedepacina/Pewlett-Hackard-Analysis/blob/main/Data/mentor_count.png)
 3. The mentorship program should have a larger range and select from a greater pool of employees. Selecting current employees who were born between January 1, 1965 and December 31, 1965 is a small selection to choose from considering there are plenty of retiring employees that can train the next generation of workers.
 4. The company will need to do some external hiring. The number of employees that are not retiring cannot withstand the departure of retiring employees. The company might have to consider an internship program to draw in young aspiring professionals to compensate for the loss of employees.
